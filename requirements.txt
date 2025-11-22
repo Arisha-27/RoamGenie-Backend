@@ -1,0 +1,15 @@
+streamlit>=1.30.0
+pandas
+numpy
+requests
+Pillow
+opencv-python-headless
+python-dotenv
+pytesseract
+fastapi
+uvicorn
+twilio
+agno>=0.1.8
+google-genai
+google-search-results>=2.4.2
+plotly
