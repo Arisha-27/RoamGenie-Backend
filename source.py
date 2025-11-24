@@ -198,9 +198,9 @@ else:
 
 # ---== API KEYS ==---
 # !! IMPORTANT: PASTE YOUR KEYS HERE !!
-GOOGLE_API_KEY = "AIzaSyDcIuEAYI3nauiaPWxwbhxKp3U5IqWEr-I"
-RAPIDAPI_KEY = "fc5b326458mshf73f3c8fca1d6d7p126a20jsn6fe65f2abcaa" 
-SERPAPI_KEY = "c43e77359a094203b64a96124b6e7b3814d510ce7cef1fe11199ed03546cdcb5"
+GOOGLE_API_KEY = 
+RAPIDAPI_KEY = 
+SERPAPI_KEY = 
 # ---================---
 
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
