@@ -13,3 +13,4 @@ agno>=0.1.8
 google-genai
 google-search-results>=2.4.2
 plotly
+google-generativeai
