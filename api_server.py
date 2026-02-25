@@ -61,7 +61,9 @@ app = FastAPI(title="RoamGenie API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[FRONTEND_ORIGIN, "*"],
+    allow_origins=[
+        "https://roam-genie-frontend.vercel.app"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
