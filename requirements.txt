@@ -14,3 +14,4 @@ google-genai
 google-search-results>=2.4.2
 plotly
 google-generativeai
+supabase>=2.0.0
